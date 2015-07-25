@@ -30,7 +30,6 @@
     "docs",
     "examples",
     "src",
-    "lib",
     "website",
     "CONTRIBUTING.md",
     "Gulpfile.js",
